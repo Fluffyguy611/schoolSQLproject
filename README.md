@@ -4,3 +4,5 @@ specjalności lub wykształcenia pracowników
 
 Diagram związków encji:
 ![dzial kadr](https://user-images.githubusercontent.com/93824235/188998827-4a86047c-6ce9-4d29-91da-94052815b21a.png)
+
+[Projekt - KADRY.pdf](https://github.com/Fluffyguy611/schoolSQLproject/files/9522095/Projekt.-.KADRY.pdf)
